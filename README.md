@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Anadi! <img src="https://media.giphy.com/media/hvRJLFzcasr14yMyV/giphy.gif" width="30px"></h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF3366&center=true&vCenter=true&width=600&lines=B.Tech+Student+%40+JSS+University;Hackathon+Competitor+%26+Builder;Exploring+AI%2FML+%26+Cybersecurity;Building+Ideas+Into+Working+Projects" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=500&color=FF3366&center=true&vCenter=true&width=600&lines=B.Tech+Student+%40+JSS+University;Innovator+%26+Builder;Exploring+AI%2FML+%26+Cybersecurity;Building+Ideas+Into+Working+Projects" alt="Typing SVG" /></a>
 </p>
 
 <br/>
