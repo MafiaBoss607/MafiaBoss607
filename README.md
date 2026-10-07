@@ -6,18 +6,18 @@
 
 <br/>
 
-### 👨‍💻 About Me
+###  About Me
 
-* 🎓 **Education:** B.Tech CSE (AI/ML) student at JSS University, Noida.
-* 💡 **Interests:** AI/ML, cybersecurity, software development, and building practical technology.
-* 🚀 **Builder:** I enjoy turning ideas into working projects and experimenting with new technologies.
-* 🏆 **Hackathons:** Regularly participate in hackathons and collaborative tech challenges.
-* 🌱 **Currently Learning:** Strengthening my DSA, AI/ML, backend development, and cybersecurity fundamentals.
-* 🔭 **Beyond Code:** I also enjoy writing, sketching, photography, and exploring creative projects.
+*  **Education:** B.Tech CSE (AI/ML) student at JSS University, Noida.
+*  **Interests:** AI/ML, cybersecurity, software development, and building practical technology.
+*  **Builder:** I enjoy turning ideas into working projects and experimenting with new technologies.
+*  **Hackathons:** Regularly participate in hackathons and collaborative tech challenges.
+*  **Currently Learning:** Strengthening my DSA, AI/ML, backend development, and cybersecurity fundamentals.
+*  **Beyond Code:** I also enjoy writing, sketching, photography, and exploring creative projects.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+###  Tech Stack & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -59,7 +59,7 @@ An application that converts mobile devices into live microphones connected to a
 > **Build. Break. Learn. Repeat.**
 ---
 
-### 📊 GitHub Analytics
+###  GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MafiaBoss607&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Anadi's GitHub stats" width="48%" />
@@ -78,7 +78,7 @@ An application that converts mobile devices into live microphones connected to a
 
 ---
 
-### 🎯 Currently Exploring
+###  Currently Exploring
 
 ```text
 AI / ML             ███████░░░
@@ -90,7 +90,7 @@ System Design       ████░░░░░░
 
 ---
 
-### 📫 Let's Connect
+###  Let's Connect
 
 <p align="left">
   <a href="www.linkedin.com/in/anadi-srivastava-b43461347"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
