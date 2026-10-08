@@ -36,23 +36,23 @@
 
 ---
 
-### 🚀 What I'm Building
+###  What I'm Building
 
 *I'm currently focused on building projects that combine **software development, AI/ML, and real-world problem-solving**.*
 
-**📍 MEET ME — Proximity Finder**  
+** MEET ME — Proximity Finder**  
 A real-time mobile application designed to help people find each other at short distances.  
 * **Core Features:** Uses real-time location, directional tracking, and live distance calculations.
 
-**🔗 FINOD — Virtual Data Pipeline**  
+** FINOD — Virtual Data Pipeline**  
 A system that links related files and folders, establishes structural relationships, and exports the output as usable JSONL data.  
 * **Impact:** Eliminated excessive manual work and streamlined large-scale data extraction, saving significant processing time.
 
-**🛡️ SSB TRACKER — Smart Border Surveillance**  
+** SSB TRACKER — Smart Border Surveillance**  
 A CCTV surveillance system designed for border security, utilizing YOLO-based object detection and OCR to flag anomalous behavior in real time.  
 * **Impact:** Enhanced security monitoring capabilities and reduced dependency on manual surveillance operations.
 
-**🎙️ SPEAK UP — Centralized Audio System**  
+** SPEAK UP — Centralized Audio System**  
 An application that converts mobile devices into live microphones connected to a central server, controllable by a single operator for large seminars.  
 * **Impact:** Improved event efficiency and eliminated physical mic-sharing, lowering the transmission risk of contagious diseases.
 
